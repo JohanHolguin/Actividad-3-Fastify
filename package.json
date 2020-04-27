@@ -7,7 +7,7 @@
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "nodemon ./server/server.js"
     },
-    "author": "Walter David Bermúdez Vélez",
+    "author": "Johan Sebastian Holguin Cano",
     "license": "ISC",
     "dependencies": {
         "@types/node": "^13.13.2",
