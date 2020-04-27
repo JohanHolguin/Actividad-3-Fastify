@@ -1,0 +1,24 @@
+{
+    "name": "security",
+    "version": "1.0.0",
+    "description": "seguridad en NodeJs",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon ./server/server.js"
+    },
+    "author": "Walter David Bermúdez Vélez",
+    "license": "ISC",
+    "dependencies": {
+        "@types/node": "^13.13.2",
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "express-validator": "^6.4.0",
+        "fastify": "^2.13.1",
+        "node-input-validator": "^4.2.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.3"
+    }
+}
